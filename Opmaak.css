@@ -3,10 +3,14 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 }
-
+/* achtergrondkleur */
+body {
+    background-color: beige;
+    opacity: 0.3;
+} 
+/* Voor de paragraaf stijl & lettertype */
 p { 
     style="white-space: pre-line;" 
     style="font-family: Georgia, 'Times New Roman', Times, serif;"
 text-align: center; 
 }
-/* Voor de paragraaf stijl & lettertype */
