@@ -10,7 +10,7 @@ body {
 } 
 /* Voor de paragraaf stijl & lettertype */
 p { 
-    style="white-space: pre-line;" 
+    text-align: center;
     style="font-family: Georgia, 'Times New Roman', Times, serif;"
 text-align: center; 
 }
