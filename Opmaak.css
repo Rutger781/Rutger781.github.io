@@ -24,6 +24,7 @@ ul li a {
 
 ul li a:hover {
     Background-color: white;
+    opacity: 0.4;
     color: black;
 }
 /* Voor de paragraaf stijl & lettertype */
