@@ -18,12 +18,13 @@ ul li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 20px 25px;
+    padding: 20px 20px;
     text-decoration: none 
 }
 
 ul li a:hover {
     Background-color: white;
+    color: black;
 }
 /* Voor de paragraaf stijl & lettertype */
 p { 
