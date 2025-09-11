@@ -15,15 +15,15 @@ ul li {
 }
 
 ul li a {
-    display: block
-    color: white
+    display: block;
+    color: white;
     text-align: center;
-    padding: 20px 25px
-    text-decoration: none;
+    padding: 20px 25px;
+    text-decoration: none 
 }
 
 ul li a:hover {
-    Background-color: white
+    Background-color: white;
 }
 /* Voor de paragraaf stijl & lettertype */
 p { 
