@@ -29,6 +29,12 @@ ul li a:hover {
 }
 /* Voor de paragraaf stijl & lettertype */
 
+#Tekstkm {
+    position: center;
+    color: darkgray;
+}
+/* Voor de tekst op de kleurenmodellen pagina */
+
 p { 
     text-align: center;
 }
