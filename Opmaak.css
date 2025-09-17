@@ -4,12 +4,13 @@ margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: black;
+position: fixed;
 } 
-/* achtergrondkleur */
+/* Puntjes verdwijnen & balk blijft in menu*/
 body {
     background-color: beige;
     opacity: 0.7;
-} 
+ } /*De achtergrondkleur */
 ul li {
     float: left; 
 }
@@ -21,20 +22,20 @@ ul li a {
     padding: 20px 20px;
     text-decoration: none 
 }
-
+/* Het menu, de kleur van de tekst, zonder hover */
 ul li a:hover {
     Background-color: white;
     opacity: 0.4;
     color: black;
 }
-/* Voor de paragraaf stijl & lettertype */
+/*Voor het menu, als je met je muis er overheen gaat */
 
 #Tekstkm {
-    position: center;
+    text-align: center;
     color: darkgray;
 }
 /* Voor de tekst op de kleurenmodellen pagina */
 
 p { 
     text-align: center;
-}
+} /* Tekst in het midden */
