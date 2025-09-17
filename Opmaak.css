@@ -4,7 +4,7 @@ margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: black;
-position: fixed;
+position: sticky;
 } 
 /* Puntjes verdwijnen & balk blijft in menu*/
 body {
@@ -20,7 +20,7 @@ ul li a {
     color: white;
     text-align: center;
     padding: 20px 20px;
-    text-decoration: none 
+    text-decoration: none; 
 }
 /* Het menu, de kleur van de tekst, zonder hover */
 ul li a:hover {
@@ -33,7 +33,7 @@ ul li a:hover {
 #Tekstkm {
     text-align: center;
     color: darkgray;
-    /*overflow: hidden;*/
+    text-decoration: none;
 }
 /* Voor de tekst op de kleurenmodellen pagina */
 
