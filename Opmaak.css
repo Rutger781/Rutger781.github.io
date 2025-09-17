@@ -33,7 +33,7 @@ ul li a:hover {
 #Tekstkm {
     text-align: center;
     color: darkgray;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 /* Voor de tekst op de kleurenmodellen pagina */
 
