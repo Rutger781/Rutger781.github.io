@@ -3,12 +3,12 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: black;
+background-color: white;
 position: sticky;
 } 
 /* Puntjes verdwijnen & balk blijft in menu*/
 body {
-    background-color: beige;
+    background-color: rgb(177, 227, 246);
     opacity: 0.7;
  } /*De achtergrondkleur */
 ul li {
@@ -17,7 +17,7 @@ ul li {
 
 ul li a {
     display: block;
-    color: white;
+    color: darkblue;
     text-align: center;
     padding: 20px 20px;
     text-decoration: none; 
@@ -34,9 +34,12 @@ ul li a:hover {
     text-align: center;
     color: black;
     text-decoration: none;
-
+    width: 50%;
 }
 /* Voor de tekst op de kleurenmodellen pagina */
+h3 {
+    color: aqua;
+}
 
 p { 
     text-align: center;
