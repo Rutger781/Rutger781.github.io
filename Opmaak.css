@@ -24,9 +24,9 @@ ul li a {
 }
 /* Het menu, de kleur van de tekst, zonder hover */
 ul li a:hover {
-    Background-color: white;
+    Background-color: black;
     opacity: 0.4;
-    color: black;
+    color: white;
 }
 /*Voor het menu, als je met je muis er overheen gaat */
 
@@ -35,10 +35,11 @@ ul li a:hover {
     color: black;
     text-decoration: none;
     width: 50%;
+    position: center;
 }
 /* Voor de tekst op de kleurenmodellen pagina */
 h3 {
-    color: aqua;
+    color: darkblue;
 }
 
 p { 
