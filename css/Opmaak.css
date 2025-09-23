@@ -30,7 +30,7 @@ ul li a:hover {
 }
 /*Voor het menu, als je met je muis er overheen gaat(hover) */
 
-#Tekstkm {
+.Tekstkm {
     text-align: center;
     color: black;
     text-decoration: none;
