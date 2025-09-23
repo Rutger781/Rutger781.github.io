@@ -12,7 +12,9 @@ body {
     opacity: 0.7;
  } /*De achtergrondkleur */
 ul li {
-    float: left; 
+   margin-left: auto;
+   margin-right: auto;
+   width: 80%;
 }
 
 ul li a {
@@ -36,9 +38,9 @@ ul li a:hover {
     text-decoration: none;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 50%; /*breedte op alle schermen*/
 }
-/* Voor de tekst op de kleurenmodellen pagina */
+/* Voor de tekst op de kleurenmodellen pagina, de breedte ook. */
 h3 {
     color: darkblue;
 } 
