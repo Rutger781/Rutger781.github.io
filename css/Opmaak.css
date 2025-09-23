@@ -35,7 +35,7 @@ ul li a:hover {
     color: black;
     text-decoration: none;
     width: 50%;
-    position: relative;
+    float: center;
 }
 /* Voor de tekst op de kleurenmodellen pagina */
 h3 {
