@@ -5,6 +5,7 @@ padding: 0;
 overflow: hidden;
 background-color: white;
 position: sticky;
+top: 10;
 } 
 /* Puntjes verdwijnen & balk blijft in menu*/
 body {
