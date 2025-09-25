@@ -50,3 +50,12 @@ h3 {
     float: center;
 } 
 /*spel in het midden*/
+
+.Tekstbs {
+border-style: double solid; /*verschillend bij zijkant en bovenkant van border*/
+border-color: white;
+margin-left: auto;
+margin-right: auto;
+width: 50%; /*automatische breedte*/
+}
+
