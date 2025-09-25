@@ -28,6 +28,7 @@ ul li a:hover {
     Background-color: black;
     opacity: 0.4;
     color: white;
+    text-decoration: underline;
 }
 /*Voor het menu, als je met je muis er overheen gaat(hover) */
 
