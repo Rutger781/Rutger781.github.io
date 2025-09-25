@@ -47,15 +47,16 @@ h3 {
 /* Kleur van de kopppen */
 
 .spel {
-    float: center;
+    float: right;
 } 
 /*spel in het midden*/
 
 .Tekstbs {
 border-style: double solid; /*verschillend bij zijkant en bovenkant van border*/
 border-color: white;
-margin-left: auto;
+margin-left: 10%;
 margin-right: auto;
 width: 50%; /*automatische breedte*/
 }
+/*Opmaak binair stelstel*/
 
