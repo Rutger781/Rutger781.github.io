@@ -56,7 +56,7 @@ border-style: solid double; /*verschillend bij zijkant en bovenkant van border*/
 border-color: white;
 border-width: medium;
 background-color: aliceblue; /*andere achtergrondkleur in de border*/
-margin-left: 5%;
+margin-left: 0;
 margin-right: auto;
 width: 50%; /*automatische breedte*/
 }
