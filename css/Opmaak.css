@@ -56,9 +56,9 @@ border-style: solid double; /*verschillend bij zijkant en bovenkant van border*/
 border-color: darkblue;
 border-width: medium;
 background-color: aliceblue; /*andere achtergrondkleur in de border*/
-margin-left: 10%;
+margin-left: 5%;
 margin-right: auto;
-margin-top: 2,5%; /*van menu af*/
+margin-top: 5%; /*van menu af*/
 width: 45%; /*automatische breedte*/
 }
 /*Opmaak binair stelstel*/
