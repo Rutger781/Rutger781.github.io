@@ -56,10 +56,10 @@ border-style: solid double; /*verschillend bij zijkant en bovenkant van border*/
 border-color: darkblue;
 border-width: medium;
 background-color: aliceblue; /*andere achtergrondkleur in de border*/
-margin-left: 0;
+margin-left: 10%;
 margin-right: auto;
 margin-top: 5%; /*van menu af*/
-width: 50%; /*automatische breedte*/
+width: 45%; /*automatische breedte*/
 }
 /*Opmaak binair stelstel*/
 
