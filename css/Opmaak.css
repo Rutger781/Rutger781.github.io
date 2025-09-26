@@ -82,4 +82,14 @@ float: right;
 vertical-align: middle;
 width: 20%;
 height: 20%;
-} 
+} /*Plaatje op kleurmodellen pagina*/
+
+.FilmpjeIO {
+float: center;
+}
+
+.TekstIO {
+margin-left: auto;
+margin-right: auto;
+width: 45%; /*automatische breedte*/
+}
