@@ -72,4 +72,14 @@ width: 30%;
 
 .PlaatjeRGB {
 float: left;
-}
+vertical-align: middle;
+width: 20%;
+height: 20%;
+} /*Plaatje op kleurenmodellen pagina*/
+
+.PlaatjeCMY {
+float: right;
+vertical-align: middle;
+width: 20%;
+height: 20%;
+} 
