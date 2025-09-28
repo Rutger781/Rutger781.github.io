@@ -47,7 +47,9 @@ h3 {
 /* Kleur van de kopppen */
 
 .spel {
-    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%; /*automatische breedte*/
 } 
 /*spel in het midden op het binaire stelsel pagina*/
 
