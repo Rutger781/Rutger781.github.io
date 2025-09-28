@@ -73,18 +73,15 @@ width: 30%;
 .PlaatjeRGB {
 width: 20%;
 height: 20%;
+border-radius: 8px; /*Ronde randen*/
 } /*Plaatje op kleurenmodellen pagina*/
 
 .PlaatjeCMY {
 width: 20%;
 height: 20%;
+border-radius: 8px; /*Ronde randen*/
 } /*Plaatje op kleurmodellen pagina*/
 
-.Images-row {
-    display: flex;
-    flex-direction: row; /*Op één regel*/
-    justify-content: center; /* In het midden uitlijnen*/
-} /*Plaatje, tekst, plaate */
 
 .FilmpjeIO {
 float: center;
