@@ -47,19 +47,20 @@ h3 {
 /* Kleur van de kopppen */
 
 .spel {
-    float: right;
+    float: center;
 } 
-/*spel in het midden*/
+/*spel in het midden op het binaire stelsel pagina*/
 
 .Tekstbs {
 border-style: solid double; /*verschillend bij zijkant en bovenkant van border*/
 border-color: darkblue;
 border-width: medium;
 background-color: aliceblue; /*andere achtergrondkleur in de border*/
-margin-left: 2,5%;
+margin-left: auto;
 margin-right: auto;
 margin-top: 5%; /*van menu af*/
 width: 45%; /*automatische breedte*/
+text-align: center; /*Utlijnen zodat het in het midden staat de tekst*/
 }
 /*Opmaak binair stelstel*/
 
@@ -82,14 +83,15 @@ height: 20%;
 border-radius: 8px; /*Ronde randen*/
 } /*Plaatje op kleurmodellen pagina*/
 
-
 .FilmpjeIO {
-float: center;
-}
+margin-left: auto;
+margin-right: auto;
+width: 60%;
+} /* Filmpje op IO pagina */
 
 .TekstIO {
 margin-left: auto;
 margin-right: auto;
 width: 45%; /*automatische breedte*/
 text-align: center;
-}
+} /*Tekst op IO pagina*/
