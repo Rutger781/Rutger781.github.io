@@ -8,13 +8,17 @@ position: sticky;
 top: 0;
 } 
 /* Puntjes verdwijnen & balk blijft in menu*/
+
 body {
     background-color: rgb(177, 227, 246);
     opacity: 0.7;
- } /*De achtergrondkleur */
+ } 
+ /*De achtergrondkleur */
+
 ul li {
 float: left;
-}
+} 
+/*Alle linken aan de linker kant*/
 
 ul li a {
     display: block;
@@ -24,6 +28,7 @@ ul li a {
     text-decoration: none; 
 }
 /* Het menu, de kleur van de tekst, zonder hover */
+
 ul li a:hover {
     Background-color: black;
     opacity: 0.4;
@@ -71,26 +76,30 @@ float: center;
 margin-left: auto;
 margin-right: auto;
 width: 30%;
-}
+} 
+/*Plaatje op de BitmapVectoren pagina*/
 
 .PlaatjeCMY {
 width: 20%;
 height: 20%;
 border-radius: 16px; /*Ronde randen*/
-} /*Plaatje op kleurmodellen pagina*/
+}
+ /*Plaatje op kleurmodellen pagina*/
 
 .FilmpjeIO {
 margin-left: auto;
 margin-right: auto;
 width: 60%;
-} /* Filmpje op IO pagina */
+} 
+/* Filmpje op IO pagina */
 
 .TekstIO {
 margin-left: auto;
 margin-right: auto;
 width: 45%; /*automatische breedte*/
 text-align: center;
-} /*Tekst op IO pagina*/
+}
+ /*Tekst op IO pagina*/
 
 .footer {
     text-align: center;
