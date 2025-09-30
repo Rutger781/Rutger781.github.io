@@ -93,7 +93,7 @@ text-align: center;
 } /*Tekst op IO pagina*/
 
 .footer {
-    position: sticky;
+    text-align: center;
     background-color: white;
     color: darkblue;
     opacity: 0.4;
