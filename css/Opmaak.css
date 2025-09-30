@@ -91,3 +91,10 @@ margin-right: auto;
 width: 45%; /*automatische breedte*/
 text-align: center;
 } /*Tekst op IO pagina*/
+
+.footer {
+    position: sticky;
+    background-color: white;
+    color: darkblue;
+    opacity: 0.4;
+} /*Zorgt voor de footer onderaan de website*/
