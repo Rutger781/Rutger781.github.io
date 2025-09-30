@@ -109,4 +109,4 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-} /*Zorgt voor de footer onderaan de website*/
+} /*Zorgt voor de footer onderaan de website, hij blijft staan, door de opacity kan je de tekst erachter zien.*/
