@@ -107,4 +107,6 @@ footer {
     color: darkblue;
     opacity: 0.4;
     position: fixed;
+    width: 100%;
+    bottom: 0;
 } /*Zorgt voor de footer onderaan de website*/
